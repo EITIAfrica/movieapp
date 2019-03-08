@@ -21,25 +21,13 @@
 Clone this repo
 
 ```sh
-$ git clone git@github.com:JuneDomingo/movieapp.git
+$ git clone git@github.com:EITIAfrica/movieapp.git
 $ cd movieapp
 $ yarn install or npm install
 ```
 
 Create `.env` file in your root directory and add the following
 
-```sh
-TMDB_URL=https://api.themoviedb.org/3
-TMDB_IMG_URL=https://image.tmdb.org/t/p
-TMDB_API_KEY=your_tmdb_api_key_here
-
-YOUTUBE_URL=https://www.googleapis.com/youtube/v3/videos
-YOUTUBE_API_KEY=your_youtube_api_key_here
-
-```
-Get api key -
-[TMDB](https://www.themoviedb.org/) -
-[Youtube](https://console.developers.google.com)
 
 ### How to start
 ```sh
