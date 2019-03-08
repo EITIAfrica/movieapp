@@ -21,7 +21,7 @@
 Clone this repo
 
 ```sh
-$ git clone git@github.com:EITIAfrica/movieapp.git
+$ git clone https://github.com/EITIAfrica/movieapp.git
 $ cd movieapp
 $ yarn install or npm install
 ```
